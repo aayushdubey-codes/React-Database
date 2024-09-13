@@ -1,11 +1,13 @@
 # React-Database
 🔥 React Database is a powerful library designed to integrate React applications with various databases seamlessly. It simplifies data management by providing a straightforward interface for connecting React components to your database. 🔥
+
 Key Features
 Easy Integration: Connect React components to multiple databases with minimal configuration.
 Real-time Updates: Automatically sync data between your app and the database in real-time.
 Supports Multiple Databases: Compatible with MongoDB, PostgreSQL, MySQL, and more.
 Simplified API: Perform CRUD operations and data fetching with ease.
 Performance Optimized: Efficient handling of large datasets and frequent updates.
+
 Quick Start
 Clone the Repository:
 bash
