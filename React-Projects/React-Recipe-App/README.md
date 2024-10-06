@@ -1,7 +1,4 @@
-Sure! Here’s the updated `README.md` with sections for a visit link and social media links at the end.
-
-```markdown
-# Recipe App
+# ✨Recipe App ✨
 
 Welcome to the Recipe App! This application allows users to search for and discover a wide variety of recipes. Whether you're looking for a quick snack or an elaborate dinner, this app has you covered!
 
