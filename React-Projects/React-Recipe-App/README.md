@@ -100,4 +100,3 @@ Check out the live app at [Recipe App](https://your-live-app-url.com).
 - [LinkedIn](https://linkedin.com/in/aayushdubey-codes/)
 
 Happy cooking!
-```
